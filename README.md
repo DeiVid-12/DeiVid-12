@@ -3,7 +3,7 @@
 - Brazilian
 - 16 years old
 - Fullstack developer
-- I'm currently studing windows kernel developmente
+- I'm currently studing windows kernel development
 - My goal is to become a reverse engineer
 
 ##
