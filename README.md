@@ -1,7 +1,7 @@
 ## Hello there, my name is Davi Bucar!
 
 - Brazilian
-- 16 years old
+- 17 years old
 - Fullstack developer
 - I'm currently studing windows kernel development
 - My goal is to become a reverse engineer
